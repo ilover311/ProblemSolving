@@ -10,6 +10,9 @@
 
 using namespace std;
 
+typedef long long LL;
+typedef pair<int, int> pii;
+
 int main() {
 
   return 0;
